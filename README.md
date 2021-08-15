@@ -1,6 +1,6 @@
-# React Star Puzzle Game
+# React Github Cards App
 
-Star puzzle game made with Next.js and features:
+Github cards app made with Next.js and features:
 
 - [Typescript](https://www.typescriptlang.org/)
 - [React](https://reactjs.org/)
